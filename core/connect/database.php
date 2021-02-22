@@ -4,7 +4,7 @@ $config = array(
 	'host'		=> 'localhost',
 	'username'	=> 'root',
 	'password'	=> '',
-	'dbname' 	=> ''
+	'dbname' 	=> 'scraper_database'
 );
 
 $db = new PDO('mysql:host=' . $config['host'] . ';dbname=' . $config['dbname'], $config['username'], $config['password']);
