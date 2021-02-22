@@ -10,6 +10,7 @@ Scraping seller information and products available from Shopee platform
 
 # Instructions
 
+- Install database provided 'scraper_database.sql' file into your MYSQL Server
 - Please specify your database information at core/connect/database.php before running the system
 - To start scraping, run the files below:
 1. www.your-url/run_shopid.php?a=1  //Random IDs from 1000000 - 9999999
@@ -19,3 +20,4 @@ Scraping seller information and products available from Shopee platform
 - Updating your seller's product after 24 hours (You can modify this at core/init.php):
 5. www.your-url/run_prod.php?a=1 //All sellers are divide into 2 and store into two array. This is array number 1 
 6. www.your-url/run_prod.php?a=2 //This is array number 2
+
