@@ -1,6 +1,6 @@
 # Shopee Data Scraper
 
-Scraping seller information and products available from Shopee platform
+Scraping seller information and products available from Shopee platform (Malaysia only)
 
 # System details
 
