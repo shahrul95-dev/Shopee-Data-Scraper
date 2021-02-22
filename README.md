@@ -21,3 +21,5 @@ Scraping seller information and products available from Shopee platform
 5. www.your-url/run_prod.php?a=1 //All sellers are divide into 2 and store into two array. This is array number 1 
 6. www.your-url/run_prod.php?a=2 //This is array number 2
 
+Contact: shahrul95.dev@gmail.com
+
